@@ -49,4 +49,4 @@ services:
 ```
 3.运行 docker-compose -f cos.yml up -d ，等待部署完成
 
-4.访问 http://127.0.0.1:9528/cos 默认登录账号admin  默认密码admin123321
+4.访问 http://127.0.0.1:9528 默认登录账号admin  默认密码admin123321
