@@ -21,7 +21,7 @@ cloud-one-system（简称COS）—— 云端媒体库同步工具
 > (<a class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways DDSExternalLink-root css-esgkec" rel="noopener" href="https://t.me/+Ch-MDMFsp1c0MDU1" target="_blank">TG反馈群<span style="white-space: nowrap; user-select: none;">&NoBreak;<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit DDSExternalLink-icon css-1y80q5u" focusable="false" aria-hidden="true" data-testid="LinkExternalIcon"><path d="M21 9L21 3M21 3H15M21 3L13 11M10 5H7.8C6.11984 5 5.27976 5 4.63803 5.32698C4.07354 5.6146 3.6146 6.07354 3.32698 6.63803C3 7.27976 3 8.11984 3 9.8V16.2C3 17.8802 3 18.7202 3.32698 19.362C3.6146 19.9265 4.07354 20.3854 4.63803 20.673C5.27976 21 6.11984 21 7.8 21H14.2C15.8802 21 16.7202 21 17.362 20.673C17.9265 20.3854 18.3854 19.9265 18.673 19.362C19 18.7202 19 17.8802 19 16.2V14" stroke="currentColor" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span></a>)，限量领取捐赠码！
 
 ## 主要功能
-核心功能为监控115网盘指定文件夹，自动生成Emby可识别的strm文件
+核心功能为监控115网盘指定文件夹，自动整理识别媒体文件，生成Emby、爆米花、飞牛影视、vidhub等可识别的strm文件。
 ## 按照步骤
 1.创建cos文件夹
 
