@@ -36,7 +36,7 @@ services:
   cloud-One-System:
     privileged: true
     container_name: cloud-One-System
-    image: mrfrog1989/cloud-one-system-x86:latest
+    image: mrfrog1989/cloud-one-system:latest
     restart: always
     network_mode: bridge
     volumes:
